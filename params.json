@@ -1,0 +1,6 @@
+{
+  "name": "Google-image-search",
+  "tagline": "google image search free api ababeen ",
+  "body": "google-image-search\r\n\r\nAbabeen Image Search API v1.0 - the modest alternative to deprecated Google Image Search API.\r\n\r\nThe api.ababeen.com Search API enables developers to embed image search results in applications or websites using JSON. Add search functionality to a website, create unique consumer or enterprise apps, or develop new site.\r\n\r\nGet Started\r\n\r\napi version 1.0\r\n\r\nurl: http://api.ababeen.com/api/images.php?q=tiger (default 10 result)\r\n\r\nhttp://api.ababeen.com/api/images.php?q=tiger&count=100 (maximum 100 results)\r\n\r\nhttp://api.ababeen.com/api/images.php?q=tiger&preview=true\r\n\r\nhttp://api.ababeen.com/api/images.php?q=tiger&preview=true&count=100\r\n\r\nsample code:\r\n\r\nEdit unofficial google image search About api.ababeen.com is a open source team to introduce api for all social information. please help us to build strong open source api\r\n\r\ncontact: ababeen135@gmail.com / admin@ababeen.com",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
